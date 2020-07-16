@@ -1,0 +1,9 @@
+{
+  "TestCases.py::TestCases::test_Expand": true,
+  "TestCases.py::TestCases::test_RemoveCycles": true,
+  "TestCases.py::TestCases::test_breadth_first_search": true,
+  "TestCases.py::TestCases::test_calculate_cost": true,
+  "TestCases.py::TestCases::test_coord2station": true,
+  "TestCases.py::TestCases::test_depth_first_search": true,
+  "TestCases.py::TestCases::test_uniform_cost_search": true
+}

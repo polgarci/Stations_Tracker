@@ -1,0 +1,12 @@
+[
+  "TestCases.py::TestCases::test_Astar",
+  "TestCases.py::TestCases::test_Expand",
+  "TestCases.py::TestCases::test_RemoveCycles",
+  "TestCases.py::TestCases::test_breadth_first_search",
+  "TestCases.py::TestCases::test_calculate_cost",
+  "TestCases.py::TestCases::test_calculate_heuristics",
+  "TestCases.py::TestCases::test_coord2station",
+  "TestCases.py::TestCases::test_depth_first_search",
+  "TestCases.py::TestCases::test_remove_redundant_path",
+  "TestCases.py::TestCases::test_uniform_cost_search"
+]

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d00e35c8-ba8c-4101-a276-ea72be1eb7be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCzXeGXDUEW4A7kIUUy6J9TmNw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\Proyectos Python\Practica1\CityInformation\Lyon_smallCity" />
+      <recent name="D:\PyCharm\Proyectos Python\Practica1\Code" />
+      <recent name="D:\PyCharm\Proyectos Python\Practica1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\Proyectos Python\Practica1\Code" />
+      <recent name="D:\PyCharm\Proyectos Python\Practica1" />
+      <recent name="D:\PyCharm\Proyectos Python\Practica1\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for TestCases.TestCases.test_Astar">
+    <configuration name="ProbaFuncions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practica1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm\Proyectos Python\Practica1\Code\ProbaFuncions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.TestCases.test_Astar" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practica1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.TestCases.test_Astar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.TestCases.test_RemoveCycles" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practica1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.TestCases.test_RemoveCycles&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.TestCases.test_breadth_first_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practica1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.TestCases.test_breadth_first_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.TestCases.test_calculate_cost" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practica1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.TestCases.test_calculate_cost&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCases.TestCases.test_coord2station" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Practica1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.TestCases.test_coord2station&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for TestCases.TestCases.test_Astar" />
+        <item itemvalue="Python tests.pytest for TestCases.TestCases.test_coord2station" />
+        <item itemvalue="Python tests.pytest for TestCases.TestCases.test_calculate_cost" />
+        <item itemvalue="Python tests.pytest for TestCases.TestCases.test_RemoveCycles" />
+        <item itemvalue="Python tests.pytest for TestCases.TestCases.test_breadth_first_search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d00e35c8-ba8c-4101-a276-ea72be1eb7be" name="Default Changelist" comment="" />
+      <created>1582461406026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582461406026</updated>
+      <workItem from="1582461449309" duration="27674000" />
+      <workItem from="1582555673272" duration="2398000" />
+      <workItem from="1582647023591" duration="10107000" />
+      <workItem from="1582710103514" duration="2335000" />
+      <workItem from="1582725827462" duration="6070000" />
+      <workItem from="1582740819862" duration="193000" />
+      <workItem from="1583003273542" duration="829000" />
+      <workItem from="1583004812699" duration="1873000" />
+      <workItem from="1583244553216" duration="835000" />
+      <workItem from="1583686058091" duration="49647000" />
+      <workItem from="1584014904748" duration="2071000" />
+      <workItem from="1584017437072" duration="599000" />
+      <workItem from="1584208316014" duration="79000" />
+      <workItem from="1586174648525" duration="136000" />
+      <workItem from="1591330794516" duration="4189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583700121199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1583700121199" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583693953161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583693953161" />
+    <state x="496" y="30" key="#pytest_in_TestCases.py" timestamp="1583004882343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="30" key="#pytest_in_TestCases.py/0.0.1536.824@0.0.1536.824" timestamp="1583004882343" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1583006000493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583006000493" />
+    <state width="1096" height="260" key="GridCell.Tab.0.bottom" timestamp="1591352292999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1096" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591352292999" />
+    <state width="1096" height="260" key="GridCell.Tab.0.center" timestamp="1591352292999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1096" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591352292999" />
+    <state width="1096" height="260" key="GridCell.Tab.0.left" timestamp="1591352292998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1096" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591352292998" />
+    <state width="1096" height="260" key="GridCell.Tab.0.right" timestamp="1591352292999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1096" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591352292999" />
+    <state width="1096" height="260" key="GridCell.Tab.1.bottom" timestamp="1591352292999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1096" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591352292999" />
+    <state width="1096" height="260" key="GridCell.Tab.1.center" timestamp="1591352292999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1096" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591352292999" />
+    <state width="1096" height="260" key="GridCell.Tab.1.left" timestamp="1591352292999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1096" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591352292999" />
+    <state width="1096" height="260" key="GridCell.Tab.1.right" timestamp="1591352292999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1096" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591352292999" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1583244856672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583244856672" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586174714116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586174714116" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583704748502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583704748502" />
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583765742673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1583765742673" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Code/SearchAlgorithm.py</url>
+          <line>528</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Code/SearchAlgorithm.py</url>
+          <line>517</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Code/TestCases.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Code/TestCases.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Code/TestCases.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Code/TestCases.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practica1$pytest_for_TestCases_TestCases_test_RemoveCycles.coverage" NAME="pytest for TestCases.TestCases.test_RemoveCycles Coverage Results" MODIFIED="1591346923120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Practica1$pytest_for_TestCases_TestCases_test_calculate_cost.coverage" NAME="pytest for TestCases.TestCases.test_calculate_cost Coverage Results" MODIFIED="1591347333072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Practica1$pytest_for_TestCases_TestCases_test_coord2station.coverage" NAME="pytest for TestCases.TestCases.test_coord2station Coverage Results" MODIFIED="1591347412917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Practica1$pytest_for_TestCases_TestCases_test_Astar.coverage" NAME="pytest for TestCases.TestCases.test_Astar Coverage Results" MODIFIED="1591347849921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Practica1$pytest_for_TestCases_TestCases_test_remove_redundant_path.coverage" NAME="pytest for TestCases.TestCases.test_remove_redundant_path Coverage Results" MODIFIED="1583865784524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Practica1$pytest_for_TestCases_TestCases_test_breadth_first_search.coverage" NAME="pytest for TestCases.TestCases.test_breadth_first_search Coverage Results" MODIFIED="1591346731323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Practica1$ProbaFuncions__1_.coverage" NAME="ProbaFuncions Coverage Results" MODIFIED="1583693579122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Practica1$ProbaFuncions.coverage" NAME="ProbaFuncions Coverage Results" MODIFIED="1583698067920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practica1$pytest_in_Practica1.coverage" NAME="pytest in Practica1 Coverage Results" MODIFIED="1582726251818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practica1$pytest_in_TestCases_py.coverage" NAME="pytest in TestCases.py Coverage Results" MODIFIED="1591345210753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/Practica1$pytest_for_TestCases_TestCases_test_uniform_cost_search.coverage" NAME="pytest for TestCases.TestCases.test_uniform_cost_search Coverage Results" MODIFIED="1583780822126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+  </component>
+</project>
